@@ -251,4 +251,3 @@ The projects focus not only on implementing numerical algorithms, but also on an
 - NumPy
 - SciPy
 - Matplotlib
-- Jupyter Notebook
