@@ -245,7 +245,9 @@ The projects focus not only on implementing numerical algorithms, but also on an
 - computational scalability;
 - behaviour of explicit and implicit methods.
 
-## Tools
+## Contributors
+- Anastasiia Latysheva
+- Julia Kriventsova
 
 - Python
 - NumPy
