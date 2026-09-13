@@ -1,8 +1,5 @@
 # Numerical Methods
 
-A collection of numerical methods implemented in Python as part of computational physics and numerical mathematics laboratory projects.
-
-The notebooks cover numerical linear algebra, nonlinear equations, interpolation, numerical differentiation and integration, ordinary differential equations, boundary-value problems, and stiff systems.
 
 ## Contents
 
