@@ -248,7 +248,8 @@ The projects focus not only on implementing numerical algorithms, but also on an
 ## Contributors
 - Anastasiia Latysheva
 - Julia Kriventsova
-
+- 
+##Tools
 - Python
 - NumPy
 - SciPy
