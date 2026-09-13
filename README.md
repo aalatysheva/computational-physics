@@ -24,7 +24,7 @@ Three labs covering the core toolbox of numerical analysis, each with convergenc
 |---|---|---|
 | 1 — Linear Algebra & Nonlinear Equations | [`SLAE_solutions.ipynb`](numerical-methods/SLAE_solutions.ipynb) | Gaussian elimination, LU, Cholesky, Jacobi, Gauss–Seidel, Newton, secant, multidimensional Newton |
 | 2 — Interpolation, Differentiation, Integration | [`interpolation_differentiation_integration_methods.ipynb`](numerical-methods/interpolation_differentiation_integration_methods.ipynb) | Lagrange & spline interpolation, finite differences, Simpson's rule, Monte Carlo integration |
-| 3 — ODEs | [`differential_equations.ipynb`](numerical-methods/differential equations.ipynb) | Euler, RK4, Adams, stiff systems, boundary-value problems via shooting method |
+| 3 — ODEs | [`differential_equations.ipynb`](numerical-methods/differential_equations.ipynb) | Euler, RK4, Adams, stiff systems, boundary-value problems via shooting method |
 
 See [`numerical-methods/README.md`](numerical-methods/README.md) for the full breakdown of methods and experiments in each lab.
 
